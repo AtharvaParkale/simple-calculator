@@ -37,7 +37,7 @@ function App() {
               color: "#44475b"
             }}
           >
-            <h2>Simple calculator</h2>
+            <h2>Calculator</h2>
           </Box>
 
           <Stack
